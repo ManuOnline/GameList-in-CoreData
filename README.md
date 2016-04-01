@@ -9,5 +9,5 @@ Inside the repo:
  - Custom TextFields
  
  Some screenshots:
- 
- ![1](https://github.com/ManuOnline/GameList-in-CoreData/blob/master/Screenshots%20SomeJunk/1.tiff) 
+
+
