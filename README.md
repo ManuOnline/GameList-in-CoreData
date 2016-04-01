@@ -10,5 +10,5 @@ The programming language is Swift.
  
 <h5>Some screenshots:</h5>
 
-![Empty list](https://github.com/ManuOnline/GameList-in-CoreData/blob/master/ScreenshotsSomeJunk/1.tiff)
+ ![Empty list](https://github.com/ManuOnline/GameList-in-CoreData/blob/master/ScreenshotsSomeJunk/1.tiff)
 
