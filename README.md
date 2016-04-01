@@ -9,6 +9,6 @@ The programming language is Swift.
  - Custom TextFields
  
 <h5>Some screenshots:</h5>
-<p align="center">
-  <img src="/GameList-in-CoreData/ScreenshotsSomeJunk/1.tiff" alt="Empty list">
-</p>
+
+![Empty list](https://github.com/ManuOnline/GameList-in-CoreData/blob/master/ScreenshotsSomeJunk/1.tiff)
+
